@@ -11,7 +11,7 @@ This is a simple and efficient task management application built with React. It 
 
 ## Screenshots
 
-![Screenshot 1](public/screenshots/screenshot1.png)
+![Screenshot 1](public/TaskMaster.webp)
 
 ## Tech Stack
 
@@ -47,4 +47,4 @@ npm start
 
 # Author
 
-Created by FarruXbek Raxmonov - [Visit my personal website](www.raxmonovrx.uz)
+Created by FarruXbek Raxmonov - [Visit my personal website](https://www.raxmonovrx.uz)
